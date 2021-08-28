@@ -1,0 +1,23 @@
+.set-bg {
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+}
+
+.bi-text p{
+   max-height: 5px;
+}
+
+.Drop{
+	color: white;
+}
+
+.bi-text{
+	position: relative;
+	top: -30px;
+}
+
+.Drop {
+	display: inline-flex;
+}
+
